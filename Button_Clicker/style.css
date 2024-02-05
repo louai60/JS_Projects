@@ -46,7 +46,7 @@ body {
     background-color: rgb(4, 0, 255);
     cursor: pointer;
     margin-left: 20px;
-    box-shadow: 0 4px 7px rgba(0, 0, 10, 10);
+    box-shadow: 4px 4px #000;
 }
 
 /*Block 1*/
@@ -75,7 +75,7 @@ body {
     width: 70px;
     padding: 5px;
     background-color: rgb(221, 134, 21);
-    box-shadow: 0 4px 7px rgba(0, 0, 10, 10);
+    box-shadow: 4px 4px #000;
 }
 
 .right {
@@ -94,7 +94,6 @@ span {
     width: 350px;
     height: 200px;
     margin: 30px;
-    
     text-align: center;
     border: 2px solid #000;
 }
@@ -103,7 +102,7 @@ span {
     background-color: rgb(80, 207, 80);
     width: 200px;
     padding: 10px;
-    box-shadow: 0 4px 7px rgba(0, 0, 10, 10);
+    box-shadow: 4px 4px #000;
 }
 
 /*Main page => Block 2 => Card */
@@ -126,7 +125,7 @@ span {
     width: 70px;
     padding: 5px;
     background-color: rgb(221, 134, 21);
-    box-shadow: 0 4px 7px rgba(0, 0, 10, 10);
+    box-shadow: 4px 4px #000;
 }
 
 .right {
