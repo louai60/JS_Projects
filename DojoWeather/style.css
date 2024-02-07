@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* Nav */
+
+nav {
+    display: flex;
+    background-color: #9fc5f8;
+    padding: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li,h1,a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.nav-links,.nav-title {
+    margin: 20px 380px 0px 280px;
+    text-decoration: none;
+}
+
+.nav-links li {
+    display: inline-block;
+    padding: 5px;
+}
+
+/* The Top */
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 380px 0px 280px;
+}
+
+
+select {
+    margin-left: 10px;
+    padding: 5px;
+    border: 2px solid #000;
+}
+
+hr {
+    width: 50%;
+    text-align:left;
+    margin-left:0;
+    border: 2px solid #000;
+}
+
+/*Main Content*/
+
+.cards {
+    display: flex;
+    
+    height: auto;
+    margin: 60px 200px 0px 280px;
+}
+
+.card {
+    height: 300px;
+    margin: 0px 14px;
+    padding: 10px ;
+    text-align: center;
+    background-color: hsl(0deg 0% 93.33%);
+}
+
+.card img {
+    width: 150px;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.card p {
+    margin-top: 20px;
+}
+
+span {
+    padding: 25px;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
