@@ -1,5 +1,5 @@
 // array to store likes for each post
-let likes = [0, 0, 0];
+let likes = [9, 16, 13];
 
 
 // function to add likes 

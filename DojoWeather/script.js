@@ -7,7 +7,7 @@ function remove() {
 
 
 let select = document.querySelector('.temp');
-let f1 = document.querySelector('#f1');
+
 
 select.addEventListener('change', function() {
     if (select.value === 'f') { 
